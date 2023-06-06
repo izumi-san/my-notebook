@@ -73,4 +73,12 @@
 
     Como explicado antes Teste End-to-End tem como objeitvo analisar o fluxo completo do projeto/software, passando por todos os módulos necessários para uma determinada ação. Por exemplo, ao fazer uma requisição de uma lista no frontend será analisado se a resposta que retornar está de acordo com o esperado.
 
-    
+__________________________________________________________________________________
+
+
+#### Cultura de testes
+
+    Pode se dizer que uma equipe possua a capacidade de implementar e gerir testes, tenha ciencia de como isso afeta a qualidade do código é uma equipe com CULTURA DE TESTES.
+    Existem fundamentos para a cultura de teste como a  QUALIDADE(ISO 9126)<explicar isso dps> e o tempo.
+
+__________________________________________________________________________________
